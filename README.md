@@ -1,4 +1,4 @@
-# [i18n-node](https://github.com/mashpie/i18n-node)-rev
+# [i18n-node](https://github.com/mashpie/i18n-node)-l
 
 > The __l function extension for i18n-node for translating express routes.
 
