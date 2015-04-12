@@ -1,0 +1,24 @@
+{
+  "name": "i18n-l",
+  "version": "0.0.1",
+  "description": "The __l function extension for i18n-node for translating express routes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xpepermint/i18n-node-l.git"
+  },
+  "keywords": [
+    "i18n",
+    "express",
+    "routes"
+  ],
+  "author": "Xpepermint",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xpepermint/i18n-node-l/issues"
+  },
+  "homepage": "https://github.com/xpepermint/i18n-node-l"
+}
